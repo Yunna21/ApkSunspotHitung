@@ -14,3 +14,9 @@ Cara Penggunaan:
 Jika terjadi error dan tidak ada program yang keluar ketika membuka "Combine.py":
 1. Tekan tombol windows di keyboard dan cari "CMD Prompt" atau "Command Prompt".
 2. masukan code berikut "pip install opencv-python numpy"
+
+## Contoh Hasil Program
+
+Berikut adalah contoh hasil pengukuran bintik matahari:
+
+![Contoh Hasil](Hasil/Program.png)
