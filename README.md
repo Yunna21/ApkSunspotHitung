@@ -19,4 +19,4 @@ Jika terjadi error dan tidak ada program yang keluar ketika membuka "Combine.py"
 
 Berikut adalah contoh hasil pengukuran bintik matahari:
 
-![Contoh Hasil](Hasil/Program.png)
+![Contoh Hasil](Hasil%20Program.png)
